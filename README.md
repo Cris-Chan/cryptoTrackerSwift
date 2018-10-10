@@ -8,3 +8,10 @@ It does not have constraints set up so the only phone i work with is the iphoneX
 * support notification center
 * more professional design
 * add constraints to support multiple ios devices
+
+
+
+
+![alt text](https://i.imgur.com/jmP75Wc.png)
+![alt text](https://i.imgur.com/ZZ4X104.png)
+![alt text](https://i.imgur.com/hEckmac.png)
