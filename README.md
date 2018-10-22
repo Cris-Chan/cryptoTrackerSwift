@@ -8,6 +8,7 @@ It does not have constraints set up so the only phone i work with is the iphoneX
 * support notification center
 * more professional design
 * add constraints to support multiple ios devices
+* provide feedback that data is refreshing when refresh button is pressed
 
 
 
